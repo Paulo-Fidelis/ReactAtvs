@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": "4553",
+      "nome": "paulo",
+      "cpf": "8092842027",
+      "senha": "ababa"
+    },
+    {
+      "id": "ff07",
+      "nome": "paulo",
+      "cpf": "8092842027",
+      "senha": "ababa"
+    },
+    {
+      "id": "0ac2",
+      "nome": "paulo",
+      "cpf": "8092842027",
+      "senha": "ababa"
+    },
+    {
+      "id": "8673",
+      "nome": "paulo",
+      "cpf": "8092842027",
+      "senha": "ababa"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "d944",
+      "num": "0193872435",
+      "nome": "ababa",
+      "email": "ababa@baba"
+    }
+  ]
+}
